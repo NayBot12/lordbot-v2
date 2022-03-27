@@ -54,8 +54,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Copyright Lord Botz'
-global.author = 'Lord Botz Best Bot\nBattry: false\nCopyright By ©AmmarBN '
+global.packname = 'Copyright Riyo Botz'
+global.author = 'Riyo Botz Best Bot\nBattry: false\nCopyright By ©RiyoOfc '
 
 global.multiplier = 39 // The higher, The harder levelup
 
