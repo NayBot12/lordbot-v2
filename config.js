@@ -2,8 +2,8 @@ global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/FGSg220goxHJXvl5g06KWK']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '6281223918622': { // put your number here
-    name: 'RiyoOfc (Creator Botz)',
+  '6285824098069': { // put your number here
+    name: 'Pascal (Owner Botz)',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
@@ -14,14 +14,14 @@ global.Owner = {
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6281223918622': { // put your number here
-    name: 'RiyoOfc',
+  '6285824098069': { // put your number here
+    name: 'Pascal Store',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6281223918622': {
-    name: 'RiyoOfc',
+  '6285824098069': {
+    name: 'Pascal Storec',
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
@@ -54,8 +54,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Copyright Riyo-Botz'
-global.author = 'Riyo Botz Best Bot\nBattry: false\nCopyright By © RiyoOfc '
+global.packname = 'Copyright Pascal-Botz'
+global.author = 'Pascal Botz Best Bot\nBattry: false\nCopyright By © RiyoOfc '
 
 global.multiplier = 39 // The higher, The harder levelup
 
